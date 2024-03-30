@@ -2,3 +2,4 @@ this is my sample file.
 new line added
 updadted the third line
 third line 
+Example of poll scm 
